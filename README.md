@@ -1,7 +1,7 @@
 # **Лучше запускать не с мобильного интернета, а через вайфай.**
 # newsNew
 
-Android-приложение для чтения новостей на Kotlin с Jetpack Compose. Новости загружаются через currentsapi.services.
+Android-приложение для чтения новостей на Kotlin с Jetpack Compose. Новости загружаются через currentsapi.services, большинство на русском языке.
 
 ## Возможности
 
